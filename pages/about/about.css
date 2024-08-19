@@ -1,0 +1,17 @@
+body{
+    background-color: #535353;
+    color: #ffffff;
+}
+
+h1{
+    text-align: center;
+    font-size: 9em;
+}
+
+p{
+    text-align: center;
+}
+div{
+    text-align: center;
+    color: azure;
+}
