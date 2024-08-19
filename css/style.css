@@ -22,8 +22,21 @@ body {
 
 .subscribe-button {
     height: 200px;
-    width: 400px;
+    width: 500px;
     margin-left: 100px;
     margin-top: 100px;
-    border-radius: 5px;
+    border-radius: 50px;
+    font-size: 80px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.subscribe-button:hover {
+    cursor: pointer;
+    opacity: .8;
+}
+
+.subscribe-button:active {
+    opacity: .5;
 }
